@@ -1,0 +1,5 @@
+﻿  lab6.cpp
+d:\visual_studio\lab6\lab6\lab6.cpp(5): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+d:\visual_studio\lab6\lab6\lab6.cpp(7): warning C4305: инициализация: усечение из "double" в "float"
+d:\visual_studio\lab6\lab6\lab6.cpp(15): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  lab6.vcxproj -> D:\Visual_Studio\lab6\Debug\lab6.exe

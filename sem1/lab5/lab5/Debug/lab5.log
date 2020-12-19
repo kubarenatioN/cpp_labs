@@ -1,0 +1,4 @@
+﻿  lab5.cpp
+d:\visual_studio\lab5\lab5\lab5.cpp(8): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+d:\visual_studio\lab5\lab5\lab5.cpp(154): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  lab5.vcxproj -> D:\Visual_Studio\lab5\Debug\lab5.exe

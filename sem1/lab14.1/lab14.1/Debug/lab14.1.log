@@ -1,0 +1,6 @@
+﻿  lab14.1.cpp
+d:\visual_studio\lab14.1\lab14.1\lab14.1.cpp(43): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+d:\visual_studio\lab14.1\lab14.1\lab14.1.cpp(54): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+d:\visual_studio\lab14.1\lab14.1\lab14.1.cpp(47): warning C4101: j: неиспользованная локальная переменная
+d:\visual_studio\lab14.1\lab14.1\lab14.1.cpp(47): warning C4101: i: неиспользованная локальная переменная
+  lab14.1.vcxproj -> D:\Visual_Studio\lab14.1\Debug\lab14.1.exe

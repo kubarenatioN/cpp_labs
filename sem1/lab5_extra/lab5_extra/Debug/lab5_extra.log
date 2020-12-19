@@ -1,0 +1,11 @@
+﻿  lab5_extra.cpp
+d:\visual_studio\lab5_extra\lab5_extra\lab5_extra.cpp(3): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+d:\visual_studio\lab5_extra\lab5_extra\lab5_extra.cpp(11): warning C4473: "scanf_s": передано недостаточно аргументов для строки формата
+  d:\visual_studio\lab5_extra\lab5_extra\lab5_extra.cpp(11): note: заполнители и их параметры ожидают переменное число аргументов в количестве 2, но было предоставлено 1
+  d:\visual_studio\lab5_extra\lab5_extra\lab5_extra.cpp(11): note: отсутствующий вариативный аргумент "2" требуется для строки форматирования "%c"
+  d:\visual_studio\lab5_extra\lab5_extra\lab5_extra.cpp(11): note: этот аргумент используется в качестве размера буфера
+d:\visual_studio\lab5_extra\lab5_extra\lab5_extra.cpp(17): warning C4473: "scanf_s": передано недостаточно аргументов для строки формата
+  d:\visual_studio\lab5_extra\lab5_extra\lab5_extra.cpp(17): note: заполнители и их параметры ожидают переменное число аргументов в количестве 2, но было предоставлено 1
+  d:\visual_studio\lab5_extra\lab5_extra\lab5_extra.cpp(17): note: отсутствующий вариативный аргумент "2" требуется для строки форматирования "%c"
+  d:\visual_studio\lab5_extra\lab5_extra\lab5_extra.cpp(17): note: этот аргумент используется в качестве размера буфера
+  lab5_extra.vcxproj -> D:\Visual_Studio\lab5_extra\Debug\lab5_extra.exe

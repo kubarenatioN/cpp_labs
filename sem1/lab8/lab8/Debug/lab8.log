@@ -1,0 +1,4 @@
+﻿  lab8.cpp
+d:\visual_studio\lab8\lab8\lab8.cpp(5): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+d:\visual_studio\lab8\lab8\lab8.cpp(31): warning C4305: инициализация: усечение из "double" в "float"
+  lab8.vcxproj -> D:\Visual_Studio\lab8\Debug\lab8.exe

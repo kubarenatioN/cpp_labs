@@ -1,0 +1,4 @@
+﻿  katya.cpp
+d:\visual_studio\katya\katya\katya.cpp(7): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+d:\visual_studio\katya\katya\katya.cpp(24): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  katya.vcxproj -> D:\Visual_Studio\katya\Debug\katya.exe

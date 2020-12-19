@@ -1,0 +1,3 @@
+﻿  kr.cpp
+d:\visual_studio\kr\kr\kr.cpp(4): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  kr.vcxproj -> D:\Visual_Studio\kr\Debug\kr.exe

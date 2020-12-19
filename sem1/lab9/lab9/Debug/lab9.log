@@ -1,0 +1,4 @@
+﻿  lab9.cpp
+d:\visual_studio\lab9\lab9\lab9.cpp(5): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+d:\visual_studio\lab9\lab9\lab9.cpp(7): warning C4305: инициализация: усечение из "double" в "float"
+  lab9.vcxproj -> D:\Visual_Studio\lab9\Debug\lab9.exe
