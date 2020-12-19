@@ -1,0 +1,6 @@
+some string number one
+another string but number two
+some interesting string number three
+look! it is a srting number four
+another interesting string. what is it's number?
+string number six :/

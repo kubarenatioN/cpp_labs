@@ -1,0 +1,4 @@
+﻿  exam4.cpp
+d:\visual_studio\2sem\exam4\exam4\exam4.cpp(66): error C3861: rOutput: идентификатор не найден
+d:\visual_studio\2sem\exam4\exam4\exam4.cpp(77): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+d:\visual_studio\2sem\exam4\exam4\exam4.cpp(79): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных

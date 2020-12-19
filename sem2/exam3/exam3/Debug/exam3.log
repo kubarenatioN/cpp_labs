@@ -1,0 +1,4 @@
+﻿  exam3.cpp
+d:\visual_studio\2sem\exam3\exam3\exam3.cpp(45): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+d:\visual_studio\2sem\exam3\exam3\exam3.cpp(47): warning C4101: n: неиспользованная локальная переменная
+  exam3.vcxproj -> D:\Visual_Studio\2sem\exam3\Debug\exam3.exe

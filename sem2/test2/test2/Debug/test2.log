@@ -1,0 +1,4 @@
+﻿  test2.cpp
+d:\visual_studio\2sem\test2\test2\test2.cpp(3): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+d:\visual_studio\2sem\test2\test2\test2.cpp(7): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  test2.vcxproj -> D:\Visual_Studio\2sem\test2\Debug\test2.exe

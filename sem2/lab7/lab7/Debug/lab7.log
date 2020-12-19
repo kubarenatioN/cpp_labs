@@ -1,0 +1,5 @@
+﻿  lab7.cpp
+d:\visual_studio\2sem\lab7\lab7\lab7.cpp(191): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\visual_studio\2sem\lab7\lab7\lab7.cpp(194): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+d:\visual_studio\2sem\lab7\lab7\lab7.cpp(232): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  lab7.vcxproj -> D:\Visual_Studio\2sem\lab7\Debug\lab7.exe

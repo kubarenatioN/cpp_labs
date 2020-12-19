@@ -1,0 +1,3 @@
+﻿  exam5.cpp
+d:\visual_studio\2sem\exam5\exam5\exam5.cpp(80): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  exam5.vcxproj -> D:\Visual_Studio\2sem\exam5\Debug\exam5.exe

@@ -1,0 +1,4 @@
+﻿  lab16.cpp
+d:\visual_studio\2sem\lab16\lab16\lab16.cpp(75): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+d:\visual_studio\2sem\lab16\lab16\lab16.cpp(77): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  lab16.vcxproj -> D:\Visual_Studio\2sem\lab16\Debug\lab16.exe

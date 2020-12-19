@@ -1,0 +1,4 @@
+﻿  lab5.cpp
+d:\visual_studio\2sem\lab5\lab5\lab5.cpp(149): warning C4101: s: неиспользованная локальная переменная
+d:\visual_studio\2sem\lab5\lab5\lab5.cpp(181): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  lab5.vcxproj -> D:\Visual_Studio\2sem\lab5\Debug\lab5.exe

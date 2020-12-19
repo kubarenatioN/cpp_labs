@@ -1,0 +1,4 @@
+﻿  lab11.cpp
+d:\visual_studio\2sem\lab11\lab11\lab11.cpp(16): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+d:\visual_studio\2sem\lab11\lab11\lab11.cpp(14): warning C4715: A: значение возвращается не при всех путях выполнения
+  lab11.vcxproj -> D:\Visual_Studio\2sem\lab11\Debug\lab11.exe

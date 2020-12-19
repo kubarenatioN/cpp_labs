@@ -1,0 +1,6 @@
+﻿  lab4.cpp
+d:\visual_studio\2sem\lab4\lab4\lab4.cpp(67): warning C4018: <: несоответствие типов со знаком и без знака
+d:\visual_studio\2sem\lab4\lab4\lab4.cpp(74): warning C4018: <: несоответствие типов со знаком и без знака
+d:\visual_studio\2sem\lab4\lab4\lab4.cpp(79): warning C4018: <: несоответствие типов со знаком и без знака
+d:\visual_studio\2sem\lab4\lab4\lab4.cpp(95): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  lab4.vcxproj -> D:\Visual_Studio\2sem\lab4\Debug\lab4.exe

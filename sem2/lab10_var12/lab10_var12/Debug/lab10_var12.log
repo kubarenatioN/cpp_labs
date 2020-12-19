@@ -1,0 +1,3 @@
+﻿  lab10_var12.cpp
+d:\visual_studio\2sem\lab10_var12\lab10_var12\lab10_var12.cpp(137): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  lab10_var12.vcxproj -> D:\Visual_Studio\2sem\lab10_var12\Debug\lab10_var12.exe

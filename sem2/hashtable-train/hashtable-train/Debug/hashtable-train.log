@@ -1,0 +1,4 @@
+﻿  hashtable-train.cpp
+d:\visual_studio\2sem\hashtable-train\hashtable-train\hashtable-train.cpp(47): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+d:\visual_studio\2sem\hashtable-train\hashtable-train\hashtable-train.cpp(49): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  hashtable-train.vcxproj -> D:\Visual_Studio\2sem\hashtable-train\Debug\hashtable-train.exe

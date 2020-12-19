@@ -1,0 +1,4 @@
+﻿  sanya_mikheeva_lab5.cpp
+d:\visual_studio\2sem\sanya_mikheeva_lab5\sanya_mikheeva_lab5\sanya_mikheeva_lab5.cpp(138): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+d:\visual_studio\2sem\sanya_mikheeva_lab5\sanya_mikheeva_lab5\sanya_mikheeva_lab5.cpp(148): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  sanya_mikheeva_lab5.vcxproj -> D:\Visual_Studio\2sem\sanya_mikheeva_lab5\Debug\sanya_mikheeva_lab5.exe

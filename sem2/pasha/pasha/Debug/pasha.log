@@ -1,0 +1,3 @@
+﻿  pasha.cpp
+d:\visual_studio\2sem\pasha\pasha\pasha.cpp(6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  pasha.vcxproj -> D:\Visual_Studio\2sem\pasha\Debug\pasha.exe

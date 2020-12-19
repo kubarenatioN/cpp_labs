@@ -1,0 +1,3 @@
+﻿  lab14_var9.cpp
+d:\visual_studio\2sem\lab14_var9\lab14_var9\lab14_var9.cpp(110): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  lab14_var9.vcxproj -> D:\Visual_Studio\2sem\lab14_var9\Debug\lab14_var9.exe

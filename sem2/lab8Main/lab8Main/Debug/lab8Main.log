@@ -1,0 +1,18 @@
+﻿  lab8Functions.cpp
+d:\visual_studio\2sem\lab8main\lab8main\lab8header.h(17): error C2061: синтаксическая ошибка: идентификатор "ofstream"
+d:\visual_studio\2sem\lab8main\lab8main\lab8header.h(19): error C2061: синтаксическая ошибка: идентификатор "ifstream"
+d:\visual_studio\2sem\lab8main\lab8main\lab8functions.cpp(35): error C2676: бинарный "<<": "std::ofstream" не определяет этот оператор или преобразование к типу приемлемо к встроенному оператору
+d:\visual_studio\2sem\lab8main\lab8main\lab8functions.cpp(47): error C2027: использование неопределенного типа "std::basic_ifstream<char,std::char_traits<char>>"
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\iosfwd(625): note:  см. объявление "std::basic_ifstream<char,std::char_traits<char>>"
+d:\visual_studio\2sem\lab8main\lab8main\lab8functions.cpp(48): error C2027: использование неопределенного типа "std::basic_ifstream<char,std::char_traits<char>>"
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\iosfwd(625): note:  см. объявление "std::basic_ifstream<char,std::char_traits<char>>"
+d:\visual_studio\2sem\lab8main\lab8main\lab8functions.cpp(50): error C2027: использование неопределенного типа "std::basic_ifstream<char,std::char_traits<char>>"
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\iosfwd(625): note:  см. объявление "std::basic_ifstream<char,std::char_traits<char>>"
+  lab8Main.cpp
+d:\visual_studio\2sem\lab8main\lab8main\lab8header.h(17): error C2061: синтаксическая ошибка: идентификатор "ofstream"
+d:\visual_studio\2sem\lab8main\lab8main\lab8header.h(19): error C2061: синтаксическая ошибка: идентификатор "ifstream"
+d:\visual_studio\2sem\lab8main\lab8main\lab8main.cpp(45): error C2660: Input: функция не принимает 2 аргументов
+  d:\visual_studio\2sem\lab8main\lab8main\lab8header.h(17): note:  см. объявление "Input"
+d:\visual_studio\2sem\lab8main\lab8main\lab8main.cpp(50): error C2660: Output: функция не принимает 2 аргументов
+  d:\visual_studio\2sem\lab8main\lab8main\lab8header.h(19): note:  см. объявление "Output"
+  Создание кода...
